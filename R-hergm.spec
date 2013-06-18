@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.3_5
-Release:          1
+Release:          2
 Summary:          Hierarchical Exponential-Family Random Graph Models
 Group:            Sciences/Mathematics
 License:          GPL-3
