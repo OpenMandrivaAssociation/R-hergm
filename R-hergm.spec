@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.3.8
-Release:          2
+Version:          1.3.10
+Release:          1
 Summary:          Hierarchical Exponential-Family Random Graph Models
 Group:            Sciences/Mathematics
 License:          GPL-3
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.3-8.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/hergm_1.3-10.tar.gz
 Requires:         R-ergm R-snow 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-ergm R-snow
 
@@ -53,4 +53,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 777206
 - Import R-hergm
 - Import R-hergm
+
 
