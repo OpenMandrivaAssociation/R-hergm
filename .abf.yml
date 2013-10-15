@@ -1,4 +1,5 @@
 removed_sources:
   hergm_1.3-5.tar.gz: 37803d6afd8a6b7aa19145d0163830409dacdc62
-sources:
   hergm_1.3-8.tar.gz: 7011539524da870fba1b70ad08d63869ca59c3cb
+sources:
+  hergm_1.3-10.tar.gz: 28430e0604ba4e3679bec66b8dd70a71c53e8248
