@@ -7,7 +7,7 @@ Release:          1
 Summary:          Hierarchical Exponential-Family Random Graph Models
 Group:            Sciences/Mathematics
 License:          GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/hergm_1.3-10.tar.gz
 Requires:         R-ergm R-snow 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-ergm R-snow
